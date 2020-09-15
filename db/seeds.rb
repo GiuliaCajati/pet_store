@@ -20,7 +20,7 @@ def random_boolean
 end
 
 def get_species 
-    ["dog", "cat", "bird"].sample
+    ["Dog", "Cat", "Bird"].sample
 end 
 
 #"Good with children" or "Prefers a home without children"
